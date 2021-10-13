@@ -4,4 +4,4 @@ Windows socket
 
 Server and client
 
-(ip.txt need to be create in conf/ directory)
+(ip.txt need to be created in conf/ directory)
